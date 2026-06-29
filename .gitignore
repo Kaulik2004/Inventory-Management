@@ -2,7 +2,12 @@
 __pycache__/
 *.py[codz]
 *$py.class
-
+notes.txt
+data
+logs
+invetory.db  
+inventory.db
+#since large file
 # C extensions
 *.so
 
